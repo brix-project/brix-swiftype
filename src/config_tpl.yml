@@ -1,0 +1,4 @@
+swiftype:
+    presets:
+        - name: Angebot erstellen
+          tpl: './tpl/angebot/*.*'
